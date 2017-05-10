@@ -1,8 +1,11 @@
 # WHMCS-Shadowsocks
 
-This module is for shadowsocks-manyuser.</br>
+I am sure this v1.1.0 version contains some code with a low efficiency. </br>
+It is nearly the origin version but added a very simple function.</br>
+
+<hr>
+Warning:The module in this branch is not recommended by us for the using of Mysql_Query.
+<hr>
 
 Version Update:</br>
-2.0.0 Converted All Mysql queries into PDO_Mysql queries.(In Process)</br>
 1.1.0 Added SS-Link generate function.</br>
-1.0.0 <a href="https://github.com/soft-wiki/whmcs-shadowsocks">Basic Module</a> by Tension</br>
